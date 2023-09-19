@@ -4,13 +4,20 @@
 }
 .main{
     height: 100vh;
-    width: 100vw;
+    width: 98vw;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .main2{ 
     height:95vh;
-    width:97vw;
+    width:95vw;
     background-color: rgba(0, 56, 201, 0.22);
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+.formss{
+    width: 50%;
 }
